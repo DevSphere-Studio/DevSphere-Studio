@@ -1,4 +1,6 @@
-
+<p align="center">
+  <img src="welcome-exclamation.png" alt="Welcome! Banner DevSphere Studio" width="100%">
+</p>
 
 # Olá, eu sou o Bruno Oliveira 👋
 
