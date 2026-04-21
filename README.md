@@ -1,16 +1,20 @@
-## Hi there 👋
+# Olá, eu sou o Bruno Oliveira 👋
 
-<!--
-**DevSphere-Studio/DevSphere-Studio** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+Founder of **DevSphere-Studio**. Desenvolvedor Web e Editor de Vídeo focado em criar sites modernos e conteúdos digitais de alta qualidade.
 
-Here are some ideas to get you started:
+### 🛠 Tecnologias & Ferramentas
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+![HTML5](https://img.shields.io/badge/html5-%23E34F26.svg?style=for-the-badge&logo=html5&logoColor=white)
+![CSS3](https://img.shields.io/badge/css3-%231572B6.svg?style=for-the-badge&logo=css3&logoColor=white)
+![JavaScript](https://img.shields.io/badge/javascript-%23F7DF1E.svg?style=for-the-badge&logo=javascript&logoColor=black)
+![VS Code](https://img.shields.io/badge/Visual%20Studio%20Code-0078d7.svg?style=for-the-badge&logo=visual-studio-code&logoColor=white)
+![CapCut](https://img.shields.io/badge/CapCut-black?style=for-the-badge&logo=capcut&logoColor=white)
+
+### 📈 Estatísticas do meu GitHub
+
+<p align="left">
+  <img src="https://github-readme-stats.vercel.app/api?username=DevSphere-Studio&show_icons=true&theme=dark&hide_border=true" alt="Estatísticas do Bruno" />
+</p>
+
+---
+*"Transformando ideias em código e pixels."*
