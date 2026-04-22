@@ -27,5 +27,10 @@ Founder of **DevSphereStudio**. Desenvolvedor Web e Editor de Vídeo focado em c
 
 * **Instagram:** [@devspherestudio](https://www.instagram.com/devspherestudio/)
 
-## 🐍 My Contributions Snake
-![github contribution grid snake animation](https://raw.githubusercontent.com/seu-usuario/seu-usuario/output/github-contribution-grid-snake.svg)
+---
+
+## 🐍 Snake Game (My Contributions)
+
+![github contribution grid snake animation](https://raw.githubusercontent.com/DevSphere-Studio/DevSphere-Studio/output/github-contribution-grid-snake.svg)
+
+---
