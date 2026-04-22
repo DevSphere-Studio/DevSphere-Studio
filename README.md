@@ -31,6 +31,6 @@ Founder of **DevSphereStudio**. Desenvolvedor Web e Editor de Vídeo focado em c
 
 ## 🐍 Snake Game (My Contributions)
 
-![github contribution grid snake animation](https://raw.githubusercontent.com/DevSphere-Studio/DevSphere-Studio/output/github-contribution-grid-snake.svg)
+![snake gif](https://raw.githubusercontent.com/DevSphere-Studio/DevSphere-Studio/output/github-contribution-grid-snake-dark.svg)
 
 ---
