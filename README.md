@@ -1,24 +1,29 @@
-<p align="center">
-  <img src="logo-DevSphereStudio.png" alt="DevSphere Studio Logo" width="100%">
-</p>
-
 # Olá, eu sou o Bruno Oliveira 👋
 
-Founder of **DevSphere-Studio**. Desenvolvedor Web e Editor de Vídeo focado em criar sites modernos e conteúdos digitais de alta qualidade.
+Founder of **DevSphereStudio**. Desenvolvedor Web e Editor de Vídeo focado em criar sites modernos e conteúdos digitais de alta qualidade.
 
-### 🛠 Tecnologias & Ferramentas
+---
+
+## 🚀 What I Do
+
+* 🔥 **Fullstack web development** (Frontend & Backend)
+* 🎬 **Edição de vídeo profissional** para redes sociais
+* 💡 **Criação de sites modernos** com foco em UX/UI
+* 🛠️ **Desenvolvimento de soluções digitais** personalizadas
+
+---
+
+## 💻 Tech Stack
 
 ![HTML5](https://img.shields.io/badge/html5-%23E34F26.svg?style=for-the-badge&logo=html5&logoColor=white)
 ![CSS3](https://img.shields.io/badge/css3-%231572B6.svg?style=for-the-badge&logo=css3&logoColor=white)
 ![JavaScript](https://img.shields.io/badge/javascript-%23F7DF1E.svg?style=for-the-badge&logo=javascript&logoColor=black)
-![VS Code](https://img.shields.io/badge/Visual%20Studio%20Code-0078d7.svg?style=for-the-badge&logo=visual-studio-code&logoColor=white)
-![CapCut](https://img.shields.io/badge/CapCut-black?style=for-the-badge&logo=capcut&logoColor=white)
+![Visual Studio Code](https://img.shields.io/badge/Visual%20Studio%20Code-0078d7.svg?style=for-the-badge&logo=visual-studio-code&logoColor=white)
+![CapCut](https://img.shields.io/badge/CapCut-000000?style=for-the-badge&logo=capcut&logoColor=white)
 
 ---
-*"Transformando ideias em código e pixels."*
 
-<picture>
-  <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/platane/snk/output/github-contribution-grid-snake-dark.svg">
-  <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/platane/snk/output/github-contribution-grid-snake.svg">
-  <img alt="Github contribution grid snake animation" src="https://raw.githubusercontent.com/platane/snk/output/github-contribution-grid-snake.svg">
-</picture>
+## 📫 Let's Connect
+
+* **Instagram:** [@devspherestudio](https://www.instagram.com/devsphere)
+* **Email:** seuemail@exemplo.com
