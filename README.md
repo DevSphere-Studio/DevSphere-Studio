@@ -1,7 +1,5 @@
 <p align="center">
-
-  <img src="https://raw.githubusercontent.com/DevSphere-Studio/DevSphere-Studio/main/logo-DevSphereStudio.png" width="600" alt="DevSphere Logo">
-
+  <img src="https://raw.githubusercontent.com/DevSphere-Studio/DevSphere-Studio/main/logo-DevSphereStudio.png" width="100%" alt="DevSphere Logo">
 </p>
 
 # Olá, eu sou o Bruno Oliveira 👋
