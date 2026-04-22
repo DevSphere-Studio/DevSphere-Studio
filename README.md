@@ -25,5 +25,4 @@ Founder of **DevSphereStudio**. Desenvolvedor Web e Editor de Vídeo focado em c
 
 ## 📫 Let's Connect
 
-* **Instagram:** [@devspherestudio](https://www.instagram.com/devsphere)
-* **Email:** seuemail@exemplo.com
+* **Instagram:** [@devspherestudio](https://www.instagram.com/devspherestudio/)
