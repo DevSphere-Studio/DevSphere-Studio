@@ -1,5 +1,5 @@
 <p align="center">
-  <img src="https://raw.githubusercontent.com/DevSphere-Studio/DevSphere-Studio/main/logo-DevSphereStudio.png" width="100%" alt="DevSphere Logo">
+  <img src="https://raw.githubusercontent.com/ZenvorMotion/ZenvorMotion/main/github-header-banner.png" width="100%" alt="Zenvor Motion Logo">
 </p>
 
 # Olá, eu sou o Bruno Oliveira 👋
