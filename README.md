@@ -1,5 +1,5 @@
 <p align="center">
-  <img src="https://raw.githubusercontent.com/ZenvorMotion/ZenvorMotion/main/github-header-banner.png" width="100%" alt="Zenvor Motion Logo">
+  <img src="https://raw.githubusercontent.com/ZenvorrMotion/ZenvorMotion/main/github-header-banner.png" width="100%" alt="Zenvor Motion Logo">
 </p>
 
 # Olá, eu sou o Bruno Oliveira 👋
